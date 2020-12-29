@@ -21,5 +21,8 @@ sources:
 - building a ml workstation: https://l7.curtisnorthcutt.com/build-pro-deep-learning-workstation
 - minimalistic ml workstation running K80: https://www.youtube.com/watch?v=lhTuWC_22vo
 
-
-checkout PopOS and see if can run pytorch with it.
+OS:
+- checkout PopOS and see if can run pytorch with it.
+- With Ubuntu:
+    * 18.04: https://qanswers.site/?q=install+nvidia+driver+ubuntu+18.04+tesla+k80
+    * 16.04: https://tech.amikelive.com/node-731/how-to-properly-install-nvidia-graphics-driver-on-ubuntu-16-04/, https://gist.github.com/genp/4086eae3d39119376ed0682fd9630e5d
