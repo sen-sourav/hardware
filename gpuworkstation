@@ -1,10 +1,10 @@
-gpu: Used Nvidia Tesla K80 (https://www.ebay.com/itm/TESLA-K80-699-22080-0200-510-NVIDIA-24GB-GDDR5-CUDA-GPU-GRAPHICS-ACCELERATOR/193693665766?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) [$145.13] D: dec18,2020
-motherboard: X299 Motherboard (ASUS WS X299 SAGE LGA 2066 Intel X299: https://www.amazon.com/gp/product/B078SHB83W/ref=as_li_tl?ie=UTF8&tag=cgnorthcutt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078SHB83W&linkId=5241ed17e64b9473a5bb72a2bf3c2ce8) [$529.26] ED: dec31,2020
-Power Supply Unit: Used EVGA SuperNOVA 1600 G2 80+ GOLD, 1600W Fully Modular Power Supply 120-G2-1600-X1 (https://www.ebay.com/itm/EVGA-SuperNOVA-1600-G2-80-GOLD-1600W-Fully-Modular-Power-Supply-120-G2-1600-X1/353333713256) [$189.00] ED: jan6-8,2021
-CPU: 20-thread CPU (https://www.amazon.com/gp/product/B07KCCH7JL/ref=ox_sc_act_title_1?smid=A9VBWN1Q1U6E6&psc=1) [$559.00] ED: jan6,2021
-Cooler: EK 240mm AIO D-RGB Liquid CPU Cooler (https://www.amazon.com/EK-Premium-EK-Vardar-High-Performance-Computer/dp/B0842Z9WYG/ref=psdc_3015422011_t3_B0829RTMKY) [$119.00] ED: dec30,2020
-Case: Corsair Carbide Series Air 540 ATX Case (https://www.amazon.com/CORSAIR-CARBIDE-Cube-Case-High-Airflow/dp/B00H8JLM94/ref=sr_1_2?dchild=1&keywords=CORSAIR+CARBIDE+AIR+740+ATX+Cube+Case%2C+High-Airflow&qid=1609239815&s=electronics&sr=1-2) [$145.80] ED: dec31,2020
-K80 cooling fans: 2 PANOMOUNTS 5500RPM fans (https://www.amazon.com/gp/product/B07K2W6SVN/ref=ox_sc_act_title_1?smid=A1X11FOVGZ8LKJ&psc=1) [$13.99] ED: dec31,2020
+* gpu: Used Nvidia Tesla K80 (https://www.ebay.com/itm/TESLA-K80-699-22080-0200-510-NVIDIA-24GB-GDDR5-CUDA-GPU-GRAPHICS-ACCELERATOR/193693665766?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) [$145.13] D: dec18,2020
+* motherboard: X299 Motherboard (ASUS WS X299 SAGE LGA 2066 Intel X299: https://www.amazon.com/gp/product/B078SHB83W/ref=as_li_tl?ie=UTF8&tag=cgnorthcutt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078SHB83W&linkId=5241ed17e64b9473a5bb72a2bf3c2ce8) [$529.26] ED: dec31,2020
+* Power Supply Unit: Used EVGA SuperNOVA 1600 G2 80+ GOLD, 1600W Fully Modular Power Supply 120-G2-1600-X1 (https://www.ebay.com/itm/EVGA-SuperNOVA-1600-G2-80-GOLD-1600W-Fully-Modular-Power-Supply-120-G2-1600-X1/353333713256) [$189.00] ED: jan6-8,2021
+* CPU: 20-thread CPU (https://www.amazon.com/gp/product/B07KCCH7JL/ref=ox_sc_act_title_1?smid=A9VBWN1Q1U6E6&psc=1) [$559.00] ED: jan6,2021
+* Cooler: EK 240mm AIO D-RGB Liquid CPU Cooler (https://www.amazon.com/EK-Premium-EK-Vardar-High-Performance-Computer/dp/B0842Z9WYG/ref=psdc_3015422011_t3_B0829RTMKY) [$119.00] ED: dec30,2020
+* Case: Corsair Carbide Series Air 540 ATX Case (https://www.amazon.com/CORSAIR-CARBIDE-Cube-Case-High-Airflow/dp/B00H8JLM94/ref=sr_1_2?dchild=1&keywords=CORSAIR+CARBIDE+AIR+740+ATX+Cube+Case%2C+High-Airflow&qid=1609239815&s=electronics&sr=1-2) [$145.80] ED: dec31,2020
+* K80 cooling fans: 2 PANOMOUNTS 5500RPM fans (https://www.amazon.com/gp/product/B07K2W6SVN/ref=ox_sc_act_title_1?smid=A1X11FOVGZ8LKJ&psc=1) [$13.99] ED: dec31,2020
 
 
 
