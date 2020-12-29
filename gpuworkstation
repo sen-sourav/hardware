@@ -1,0 +1,16 @@
+gpu: Nvidia Tesla K80
+motherboard: 
+
+
+
+
+
+
+
+
+
+-----------------
+sources:
+- guide to choosing gpus: https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/
+- building a ml workstation: https://l7.curtisnorthcutt.com/build-pro-deep-learning-workstation
+- minimalistic ml workstation running K80: https://www.youtube.com/watch?v=lhTuWC_22vo
